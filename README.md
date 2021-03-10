@@ -18,3 +18,12 @@ Esta aplicación sirve para construir el modelo especifico personalizado o por g
 debería trabajar para tener las intensidades correctas por zonas de entrenamiento y comparadas con la maxima de Brsiky.
 
 
+Descripción de los ejercicios y correspondencia con los archivos
+
+EJERCICIOS
+- BB Squat trasero
+- BB Bench Press
+- Deadlift
+- Empuje de cadera
+
+
