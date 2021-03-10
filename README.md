@@ -20,10 +20,43 @@ debería trabajar para tener las intensidades correctas por zonas de entrenamien
 
 Descripción de los ejercicios y correspondencia con los archivos
 
-EJERCICIOS
+### EJERCICIOS 2020
 - BB Squat trasero
 - BB Bench Press
 - Deadlift
 - Empuje de cadera
+
+
+
+### CARACTERÍSTICAS DE LA MUESTRA
+4 sujetos varones que se desempeñan como defensas laterales, entrenan 5 veces a la semana durante aproximadamente 120 minutos y juegan 1 vez por semana, estos mismos pertenecientes al selectivo BUAP de futbol soccer en la ciudad de Puebla, el cual compite a nivel universitario en edades comprendidas 20 a 23 años.
+
+Sujeto 1
+Edad: 20 años 
+Altura: 1.72 m
+Peso: 69 kg 
+
+Sujeto 2
+Edad: 21 años 
+Altura: 1.83 m
+Peso: 78 kg 
+
+Sujeto 3
+Edad: 22 años 
+Altura: 1.67 m
+Peso: 69 kg 
+
+Sujeto 4
+Edad: 22 años 
+Altura: 1.65 m
+Peso: 63 kg 
+
+Sujeto	Edad	Estatura	Peso
+- 1	20	1.72	69
+- 2	21	1.83	78
+- 3	22	1.67	69
+- 4	22	1.65	63
+
+N=4			
 
 
