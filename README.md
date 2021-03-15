@@ -60,3 +60,11 @@ Sujeto	Edad	Estatura	Peso
 N=4			
 
 
+# 1RM_espV2.R (corregido y mejorado a marzo de 2021)
+#### Med.csv
+##### La persona practicó karate, tae kwon do, box y natación por varios años, hasta principios de marzo de 2021 
+##### practicante de fitness por aproximadamente tres años, con edad de 23 años, talla de 173 cm, 69 kg, alumno de 8 semestre de licenciatura.
+
+La actividad en el gimnasio consistió en: hacer calentamiento previo, a continuación, press de pecho horizontal, con máximo 10 repeticiones del ejercicio, aumentando las cargas, con inicio de peso de 10kg por lado (discos de 10kg y la barra con un peso de 20kg). Se usó un metrónomo (Metronome Beats, app de celular), de esta forma se logró ser más preciso con la ejecución y respetando la técnica del movimiento, finalizar al rechazo o pérdida de técnica.
+
+
